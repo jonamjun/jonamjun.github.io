@@ -26,7 +26,7 @@ a:hover {
 }
 
 .small-sub-title {
-    font: bold normal 20px/1.2 "SabonLTPro-Roman", serif;
+    font: bold normal 3vw/1 "SabonLTPro-Roman", serif;
 }
 
 section {
@@ -73,11 +73,10 @@ section {
 
 .cv-content {
     text-align: left;
-    margin: 15px;
 }
 
 .cv-content a:link, .cv-content a:visited {
-color: white;
+    color: white;
 }
 
 .cv-content a:hover {
@@ -126,7 +125,7 @@ color: white;
     }
 }
 
-.works iframe {
+.youtube iframe, .youtube img {
     position: absolute;
     top: 0;
     left: 0;
